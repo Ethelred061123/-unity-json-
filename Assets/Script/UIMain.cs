@@ -16,7 +16,7 @@ public class UIMain : MonoBehaviour
     private TMP_Text text;
     private Image image;
 
-    private GameObject UI;
+    public GameObject UI;
     void Start()
     {
         title = GameObject.Find("Title").GetComponent<TMP_Text>();

@@ -63,7 +63,7 @@ public class Move : MonoBehaviour
 
     void RotateByMouse()
     {
-        if (Input.GetMouseButton(0))
+        if (Input.GetMouseButton(0) && UIMain.Instance.UI.activeSelf == false)
         {
             float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
             float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
