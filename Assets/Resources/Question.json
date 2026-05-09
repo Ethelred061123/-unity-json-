@@ -1,0 +1,58 @@
+{
+    "QuestionItem": [
+        {
+            "Id": 1,
+            "question": "中国共产党成立于哪一年？",
+            "option1": "1919年",
+            "option2": "1921年",
+            "option3": "1935年",
+            "option4": "1949年",
+            "answer": 2
+        },
+        {
+            "Id": 2,
+            "question": "中华人民共和国成立于哪一天？",
+            "option1": "1949年10月1日",
+            "option2": "1921年7月1日",
+            "option3": "1937年7月7日",
+            "option4": "1956年5月1日",
+            "answer": 1
+        },
+        {
+            "Id": 3,
+            "question": "长征胜利结束的标志是哪里会师？",
+            "option1": "井冈山会师",
+            "option2": "遵义会师",
+            "option3": "延安会师",
+            "option4": "红军三大主力会师",
+            "answer": 4
+        },
+        {
+            "Id": 4,
+            "question": "中国共产党第一次全国代表大会在哪里召开？",
+            "option1": "北京",
+            "option2": "广州",
+            "option3": "上海",
+            "option4": "延安",
+            "answer": 3
+        },
+        {
+            "Id": 5,
+            "question": "被称为“生死攸关转折点”的会议是？",
+            "option1": "中共一大",
+            "option2": "遵义会议",
+            "option3": "瓦窑堡会议",
+            "option4": "七届二中全会",
+            "answer": 2
+        },
+        {
+            "Id": 6,
+            "question": "抗日战争全面爆发的标志性事件是？",
+            "option1": "九一八事变",
+            "option2": "西安事变",
+            "option3": "卢沟桥事变",
+            "option4": "百团大战",
+            "answer": 3
+        }
+    ]
+}
