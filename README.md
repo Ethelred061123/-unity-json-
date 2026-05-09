@@ -24,3 +24,5 @@ Unity 3D 交互信息展示系统 (Data-Driven UI)
     配置：每个模型在 Inspector 面板手动设置一个 idx。
 
 “注：由于字体资源文件超过了 GitHub 限制，未上传至仓库，请下载后参考项目说明自行生成。”
+
+给个starred吧
