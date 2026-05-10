@@ -63,8 +63,9 @@ public class Move : MonoBehaviour
 
     void RotateByMouse()
     {
-        if (Input.GetMouseButton(0) && UIMain.Instance.UI.activeSelf == false)
+        if (Input.GetMouseButton(0) && UIMain.Instance.UI.activeSelf == false && UIQuest.Instance.UIquest.activeSelf == false)
         {
+            //Debug.Log("111");
             float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
             float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
 
@@ -78,5 +79,6 @@ public class Move : MonoBehaviour
 
             transform.Rotate(Vector3.up * mouseX);
         }
+        
     }
 }

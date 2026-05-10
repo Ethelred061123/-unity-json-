@@ -66,7 +66,7 @@ public class UIQuest : MonoBehaviour
             }
             else
             {
-                MessageBox.Instance.MessageShow($"回答错误，正确答案是{answer}个选项", "确定");
+                MessageBox.Instance.MessageShow($"回答错误，正确答案是第{answer}个选项", "确定");
             }
         }
 

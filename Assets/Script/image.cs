@@ -10,7 +10,7 @@ public class image : MonoBehaviour
 
     void OnMouseDown()
     {
-        if (UIMain.Instance != null)
+        if (UIMain.Instance != null && UIQuest.Instance.UIquest.activeSelf == false && UIMain.Instance.UI.activeSelf == false)
         {
             UIMain.Instance.RefreshUI(idx);
             if (ui != null)
