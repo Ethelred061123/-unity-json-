@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/game.unity
     guid: d624f5e0b4af8e040a1280be6b7c2a39
   - enabled: 1
-    path: Assets/AK Studio Art/Art Gallery Vol.4/Scenes/Demo.unity
+    path: Assets/AK Studio Art/Art Gallery Vol.4/Scenes/cahngjin.unity
     guid: 0d0a6dc102e5cb24d8e58a6eae6667a2
   m_configObjects: {}
